@@ -17,7 +17,11 @@ specs:
   - scipy
   - pandas
   - SimpleITK>=1.2.0
-    
+  - menuinst [win]
+  - console_shortcut [win]
+
+license_file: EULA.txt
+
 welcome_image: welcome_image.png [win]
-header_image: header_image.png  [win]
-icon_image: icon_image.png             [win]
+header_image: header_image.png   [win]
+icon_image: icon_image.png       [win]
